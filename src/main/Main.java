@@ -24,7 +24,7 @@ public class Main {
 	}
 	
 	public static <T> void fun( List<T> list) {
-		
+		new String() ;
 	}
 	
 	
